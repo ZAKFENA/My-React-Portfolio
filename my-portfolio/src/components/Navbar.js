@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "./Header";
+import logo from '../assets/my-logo.png';
 import './Navbar.css'
 
 export default function Navbar() {
@@ -8,7 +9,7 @@ export default function Navbar() {
       <a className="navbar-brand" href="/about">
         <img
           className="logo"
-          src="/my-logo.png"
+          src={logo}
           width="100"
           height="90"
           alt="Logo"
