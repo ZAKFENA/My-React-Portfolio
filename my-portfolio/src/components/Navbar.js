@@ -4,8 +4,8 @@ import './Navbar.css'
 
 export default function Navbar() {
   return (
-    <nav class="navbar navbar-light bg-light">
-      <a class="navbar-brand" href="/about">
+    <nav className="navbar navbar-light bg-light">
+      <a className="navbar-brand" href="/about">
         <img
           className="logo"
           src="/my-logo.png"

@@ -12,7 +12,7 @@ function About() {
           <div className="profpic-md">
             <img
               id="ProfilePic"
-              src="/profile.jpg"
+              src="profile.jpg"
               width="250"
               height="250"
               alt="Profile Pic"
