@@ -17,7 +17,7 @@ function Header() {
               : "nav-link"
           }
         >
-          <h3>About</h3>
+          <h5>About</h5>
         </Link>
       </li>
       <li className="nav-item">
@@ -27,7 +27,7 @@ function Header() {
             location.pathname === "/projects" ? "nav-link active" : "nav-link"
           }
         >
-          <h3>Projects</h3>
+          <h5>Projects</h5>
         </Link>
       </li>
       <li className="nav-item">
@@ -37,7 +37,7 @@ function Header() {
             location.pathname === "/resume" ? "nav-link active" : "nav-link"
           }
         >
-          <h3>Resume</h3>
+          <h5>Resume</h5>
         </Link>
       </li>
     </ul>

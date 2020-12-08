@@ -6,7 +6,7 @@ import './Navbar.css'
 export default function Navbar() {
   return (
     <nav className="navbar navbar-light bg-light">
-      <a className="navbar-brand" href="/about">
+      <a className="navbar-brand" >
         <img
           className="logo"
           src={logo}
