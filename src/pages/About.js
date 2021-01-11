@@ -20,17 +20,15 @@ function About() {
             <div>
               <p className="paragraph">
                 Full-Stack web developer dedicated to building web application
-                with an intuitive user experience. Currently attending
-                University of Minnesota Coding Bootcamp and have acquired skills
-                in HTML, CSS, JQuery, Javascript, Node.js, Express, SQL,
-                MongoDB, React.js. Worked on multiple projects both individually
-                and with teams. I enjoy the challenge of solving problems,
-                working as a team, and presenting a mobile-first app that
-                strives for user experience satisfaction. With additional skills
-                such as leadership, working with a team, as well as working in a
-                fast pace environment I gained working in the mortgage loan
-                processing industry I look forward to leverage my skills to
-                develop web mobile-first web applications that provide great
+                with an intuitive user experience. Attended University of
+                Minnesota Coding Bootcamp and acquired skills in HTML, CSS,
+                JQuery, Javascript, Node.js, Express, SQL, MongoDB and React.js.
+                Worked on multiple projects individually and with teams. I enjoy
+                solving problems, working as a team, and presenting a
+                mobile-first app that strives for user experience satisfaction.
+                With additional skills such as leadership, working with a team,
+                in a fast pace environment, I look forward to leverage my skills
+                to develop web mobile-first web applications that provide great
                 user experience. <br />
                 <br />
               </p>
