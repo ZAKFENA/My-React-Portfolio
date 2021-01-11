@@ -26,7 +26,7 @@ function About() {
                 Worked on multiple projects individually and with teams. I enjoy
                 solving problems, working as a team, and presenting a
                 mobile-first app that strives for user experience satisfaction.
-                With additional skills such as leadership, working with a team,
+                With additional skills such as leadership, working with a team and 
                 in a fast pace environment, I look forward to leverage my skills
                 to develop web mobile-first web applications that provide great
                 user experience. <br />
