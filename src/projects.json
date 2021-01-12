@@ -1,6 +1,23 @@
 [
   {
-    "id": 1,
+    "id": 7,
+    "name": "TC Food Share",
+    "image": "/tc-foodshare.png",
+    "description": "A user can find free meals, produce, and groceries near them so they can have access to food in the Twin Cities. They can search by areas locate the area by zooming on the map. User can also drop a pin by singing up/logging in and entering required info. ",
+    "repolink": "https://github.com/ZAKFENA/tc-foodshare-1",
+    "livelink": "https://tc-food-share.herokuapp.com/"
+  },
+  {
+    "id": 6,
+    "name": "Dad Jokes",
+    "image": "/Dad-jokes.png",
+    "description": "The Dad joke app is a website that allows users to read Dad jokes. The first part of the jokes are shown as list. To see the punchline the user clicks puchline button and the punchline is shown. The user has the ability to rate the joke and to add a joke a signup/login is required.",
+    "repolink": "https://github.com/ZAKFENA/peony",
+    "livelink": "https://vast-gorge-32848.herokuapp.com/"
+  },
+
+  {
+    "id": 5,
     "name": "Flight-Quote-Scanner",
     "image": "/Flight-Quote-Scanner.png",
     "description": "This site uses two API's to get the 5 cheapest flight quotes between two different cities and also gets COVID Stats for the destination country.",
@@ -9,7 +26,7 @@
   },
 
   {
-    "id": 2,
+    "id": 4,
     "name": "Weather-Dashboard",
     "image": "Weather-Dashboard.png",
     "description": "This site searches for cities and displays weather info for that city. It uses Open Weather API to get the info and store it on the local storage to display it as search history. It also displays the 5 day forecast  for that city.",
@@ -27,7 +44,7 @@
   },
 
   {
-    "id": 4,
+    "id":2 ,
     "name": "Quiz-App",
     "image": "Code-Quiz.png",
     "description": "This is a quiz app wich lets the user take quiz. When the user starts quiz a timer will also start counting down. When the timer get to zero or the finishes the question, the user will be prompted to enter their initials and their score will be saved. The 'view score' button shows the list of the initials and scores.",
@@ -36,7 +53,7 @@
   },
 
   {
-    "id": 5,
+    "id": 1,
     "name": "Day-Planner",
     "image": "Day-Planner.png",
     "description": "This is a day planner app that saves notes on a local storage. It uses moment.js for displaying times. All past, current and future hours have their own colors and automatically change.",
