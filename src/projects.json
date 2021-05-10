@@ -3,7 +3,7 @@
     "id": 7,
     "name": "TC Food Share",
     "image": "/tc-foodshare.png",
-    "description": "A user can find free meals, produce, and groceries near them so they can have access to food in the Twin Cities. They can search by areas locate the area by zooming on the map. User can also drop a pin by singing up/logging in and entering required info. ",
+    "description": "A user can find free meals, produce, and groceries near them so they can have access to food in the Twin Cities. They can search by areas or locate the area by zooming on the map. User can also drop a pin by singing up/logging in and entering required info.",
     "repolink": "https://github.com/ZAKFENA/tc-foodshare-1",
     "livelink": "https://tc-food-share.herokuapp.com/"
   },

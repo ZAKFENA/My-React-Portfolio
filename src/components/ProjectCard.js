@@ -6,7 +6,7 @@ export default function Card(props) {
     <div className="card mb-3">
       <div className="row no-gutters">
         <div className="col-md-4">
-          <img src={props.image} className="card-img" alt={props.name} />
+          <img src={props.image} className="card-img" alt={props.name} href={props.livelink}/>
         </div>
         <div className="col-md-8">
           <div className="card-body">
