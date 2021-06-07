@@ -11,7 +11,7 @@
     "id": 6,
     "name": "Dad Jokes",
     "image": "/Dad-jokes.png",
-    "description": "The Dad joke app is a website that allows users to read Dad jokes. The first part of the jokes are shown as list. To see the punchline the user clicks puchline button and the punchline is shown. The user has the ability to rate the joke and to add a joke a signup/login is required. Guest Login - Email: guest@email.com Password: 123456",
+    "description": "The Dad joke app is a website that allows users to read Dad jokes. The first part of the jokes are shown as list. To see the punchline the user clicks puchline button and the punchline is shown. The user has the ability to rate the joke and to add a joke a signup/login is required.         Guest Login - Email: guest@email.com Password: 123456",
     "repolink": "https://github.com/ZAKFENA/peony",
     "livelink": "https://vast-gorge-32848.herokuapp.com/"
   },
